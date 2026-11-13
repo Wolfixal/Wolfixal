@@ -1,4 +1,4 @@
-- High-school Junior with a passion for Software Engineering
+- High-school Senior with a passion for Software Engineering
 - Currently working on game development when not drowning in school work
 - I have experience with Python programming and simple web development
 - Currently learning to use Linux and programming in C++
